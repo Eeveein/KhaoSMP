@@ -1,16 +1,16 @@
 filename = 'CustomPlayerModels-1.20-0.6.19a.jar'
 name = 'Customizable Player Models'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '6944e83747662d72f8c63d4af20376df895cbfd020b45d779e6124db43c4a821b41ee0be93147d045b8e61dae799c6619862b5036a7bdc39df3fc91d92dce62c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/h1E7sQNL/versions/8eYYOAmJ/CustomPlayerModels-1.20-0.6.19a.jar'
+hash = '556690a375445fe3d92baa6431139d08f7caf395'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'h1E7sQNL'
-version = '8eYYOAmJ'
+[update.curseforge]
+file-id = 5689793
+project-id = 439870

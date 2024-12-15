@@ -1,16 +1,16 @@
-filename = 'FarmersDelight-1.20.1-1.2.5.jar'
+filename = 'FarmersDelight-1.20.1-1.2.6.jar'
 name = "Farmer's Delight"
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'f0998fa5db9124ab4f1b6471d83f386c47bef814b23f904c35952c08bff3e12043b3f2c0fda671644cee14a293830f33dc5e87b2b8a4712456f11ee98510a2f5'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/R2OftAxM/versions/5tKbefI6/FarmersDelight-1.20.1-1.2.5.jar'
+hash = '9534a0724ad9426fbfc795e4eeb814d7e8f76b25'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'R2OftAxM'
-version = '5tKbefI6'
+[update.curseforge]
+file-id = 5962797
+project-id = 398521

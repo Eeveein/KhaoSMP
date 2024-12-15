@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '9bc033b764d50bf9563a11ebe3cceee6d071bd68b96715ddef23419103d09d1380276975e1e1ea981418bee281af89fadb250ec09a270ffa1c41c1788ce0028a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/KJhXPbHQ/versions/YLJKBPTh/BetterCompatibilityChecker-forge-4.0.8%2Bmc1.20.1.jar'
+hash = 'c5407cfd0b38d8db6d6f1c0088397f4c5616c7ae'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'KJhXPbHQ'
-version = 'YLJKBPTh'
+[update.curseforge]
+file-id = 4688940
+project-id = 551894

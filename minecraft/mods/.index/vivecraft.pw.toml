@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '686f8b4d93b753ed2ac5b387759658af8fdcefab333ea8e0f71f522f06e5dae70e35fa11199c66fe1d4ed5980191e1227ab3790e9c1d9bc5f5ec052dadfcfe1c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/wGoQDPN5/versions/4FtIepTi/vivecraft-1.20.1-1.1.14-forge.jar'
+hash = '056bd6c6374374f8ff891bdeab30c75e9a5cdaf6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'wGoQDPN5'
-version = '4FtIepTi'
+[update.curseforge]
+file-id = 5830833
+project-id = 667903

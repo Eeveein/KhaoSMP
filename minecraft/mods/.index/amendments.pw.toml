@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '89fc59fdf4e333ead7d8cccc175b9fe302746945491ea976f730aac3083b34edf424fe9c0159f6fb78d6adda74592b1469a3e08e64fe7644054a5d4e2a9c24ed'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/6iTJugQR/versions/qE7sokDv/amendments-1.20-1.2.12.jar'
+hash = 'b9b55a797ab10fd3d32ef479f50ccac3051226be'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = '6iTJugQR'
-version = 'qE7sokDv'
+[update.curseforge]
+file-id = 5820238
+project-id = 896746

@@ -1,16 +1,16 @@
 filename = 'sodiumoptionsapi-forge-1.0.8-1.20.1.jar'
-name = 'Sodium Options API'
-side = 'client'
+name = 'Sodium/Embeddium Options API'
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'b7924683d6c810a03b06fc38b5411349606e318b3b555d6d91496946aa5f40b964a3044947f62f1ce6f9b9b8f5bdc42623281bfc081a5f399e516df2c8e0e25b'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Es5v4eyq/versions/Lm9hPdyx/sodiumoptionsapi-forge-1.0.8-1.20.1.jar'
+hash = 'f454d41b1fe772007654e989a148ae5a3c065dcf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'Es5v4eyq'
-version = 'Lm9hPdyx'
+[update.curseforge]
+file-id = 5931900
+project-id = 1103431

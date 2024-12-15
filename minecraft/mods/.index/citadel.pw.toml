@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '8edb2264317e547230960109aaadae36ce0db9abb27748d47033c64c7f4958a970172ae382552c5e3c41a4885e95437328a6eba53226fd64c4ce0b4f0ec22b4f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/jJfV67b1/versions/mL5pYWWo/citadel-2.6.0-1.20.1.jar'
+hash = 'fed1e7cb25232d31aaebe86f4ebafe8d9b663387'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'jJfV67b1'
-version = 'mL5pYWWo'
+[update.curseforge]
+file-id = 5633260
+project-id = 331936

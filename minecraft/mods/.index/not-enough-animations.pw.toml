@@ -1,16 +1,16 @@
 filename = 'notenoughanimations-forge-1.8.1-mc1.20.1.jar'
 name = 'Not Enough Animations'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = 'fe3ce4e9008fa87f97e0a6a421477e26624ccbb656cc967c2c5574a877c0e9cc69a818c137188e48e5d14aa243cf7c60d359be044bc5e12e6c5e2dbba2365abf'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/MPCX6s5C/versions/WsjBROya/notenoughanimations-forge-1.8.1-mc1.20.1.jar'
+hash = '02f251e15e4c19b1957ab74699a37246b2f3086e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'MPCX6s5C'
-version = 'WsjBROya'
+[update.curseforge]
+file-id = 5895033
+project-id = 433760

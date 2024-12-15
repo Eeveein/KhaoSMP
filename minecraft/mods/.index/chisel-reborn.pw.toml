@@ -1,16 +1,16 @@
 filename = 'chisel-forge-1.20.1-1.8.0.jar'
-name = 'Chisel Reborn'
+name = 'Chisel Reborn [Forge/Fabric/NeoForge]'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '12bd1a3307da0b4316ac55c83e739d376cf27f9f1090cd8ad368d3b76210ea0d9d4d7359715a36c140b8fa00d68ceee3bcb6c2ab560dbc5d758823fc6f976bfb'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/4KWv7wbN/versions/GokYubu8/chisel-forge-1.20.1-1.8.0.jar'
+hash = '6a061d1328c73f5054b6bb7ed406a4c360c022a1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = '4KWv7wbN'
-version = 'GokYubu8'
+[update.curseforge]
+file-id = 5478429
+project-id = 551763

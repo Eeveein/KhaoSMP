@@ -1,10 +1,9 @@
 {
   "inventory": {
-    "0:3": "{Count:2b,id:\"delightful:smore\"}",
     "0:0": "{Count:1b,id:\"minecraft:stone_pickaxe\",tag:{Damage:0}}",
-    "0:7": "{Count:5b,id:\"delightful:smore\"}",
+    "1:2": "{Count:1b,id:\"sophisticatedbackpacks:backpack\",tag:{contentsUuid:[I;-520907095,-631617994,-1822668106,-1019255086],inventorySlots:27,renderInfo:{upgradeItems:[{Count:1b,id:\"minecraft:air\"}]},upgradeSlots:1}}",
     "0:8": "{Count:1b,id:\"farmersdelight:hot_cocoa\"}",
-    "1:2": "{Count:1b,id:\"sophisticatedbackpacks:backpack\"}"
+    "0:7": "{Count:7b,id:\"delightful:smore\"}"
   },
   "wipeBlacklist": []
 }
