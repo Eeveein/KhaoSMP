@@ -6,11 +6,11 @@
 	#Maximum reach in survival without upgrades
 	#Consume Power Level upgrades to permanently increase this.
 	#Range: 0 ~ 1000
-	reachLevel0 = 0
+	reachLevel0 = 32
 	#Range: 0 ~ 1000
-	reachLevel1 = 8
+	reachLevel1 = 32
 	#Range: 0 ~ 1000
-	reachLevel2 = 16
+	reachLevel2 = 32
 	#Range: 0 ~ 1000
 	reachLevel3 = 32
 
@@ -22,13 +22,13 @@
 	#Consume Power Level upgrades to permanently increase this.
 	#Set to 0 to disable Effortless Building until the player has increased their Building Power Level.
 	#Range: 0 ~ 100000
-	maxBlocksPlacedAtOnceLevel0 = 128
+	maxBlocksPlacedAtOnceLevel0 = 2048
 	#Range: 0 ~ 100000
-	maxBlocksPlacedAtOnceLevel1 = 192
+	maxBlocksPlacedAtOnceLevel1 = 2048
 	#Range: 0 ~ 100000
-	maxBlocksPlacedAtOnceLevel2 = 320
+	maxBlocksPlacedAtOnceLevel2 = 2048
 	#Range: 0 ~ 100000
-	maxBlocksPlacedAtOnceLevel3 = 640
+	maxBlocksPlacedAtOnceLevel3 = 2048
 
 [MaxBlocksPerAxis]
 	#How many blocks can be placed at once per axis when using build modes (e.g. walls).
@@ -38,13 +38,13 @@
 	#In survival without upgrades
 	#Consume Power Level upgrades to permanently increase this.
 	#Range: 0 ~ 1000
-	maxBlocksPerAxisLevel0 = 8
+	maxBlocksPerAxisLevel0 = 64
 	#Range: 0 ~ 1000
-	maxBlocksPerAxisLevel1 = 12
+	maxBlocksPerAxisLevel1 = 64
 	#Range: 0 ~ 1000
-	maxBlocksPerAxisLevel2 = 16
+	maxBlocksPerAxisLevel2 = 64
 	#Range: 0 ~ 1000
-	maxBlocksPerAxisLevel3 = 20
+	maxBlocksPerAxisLevel3 = 64
 
 [MaxMirrorRadius]
 	#The maximum (radial) mirror radius.
@@ -53,11 +53,11 @@
 	#Maximum reach in survival without upgrades
 	#Consume Power Level upgrades upgrades to permanently increase this.
 	#Range: 0 ~ 1000
-	maxMirrorRadiusLevel0 = 16
+	maxMirrorRadiusLevel0 = 64
 	#Range: 0 ~ 1000
-	maxMirrorRadiusLevel1 = 32
+	maxMirrorRadiusLevel1 = 64
 	#Range: 0 ~ 1000
-	maxMirrorRadiusLevel2 = 48
+	maxMirrorRadiusLevel2 = 64
 	#Range: 0 ~ 1000
 	maxMirrorRadiusLevel3 = 64
 

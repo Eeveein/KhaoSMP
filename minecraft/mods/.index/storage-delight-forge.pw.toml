@@ -1,16 +1,16 @@
-filename = 'storagedelight-24.09.11-1.20-forge.jar'
-name = 'Storage Delight (Forge & Neoforge)'
+filename = 'storagedelight-24.12.15-1.20-forge.jar'
+name = 'Storage Delight'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '0f2dc5cb4abfb49ded66a94dd81a062b39d5bfb9'
+hash = '827ebcb81654fde5b3d5c56531ad94be5f849d61'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5714764
+file-id = 5994001
 project-id = 979761

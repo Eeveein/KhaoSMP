@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = C:/ProgramData/prisminstances/KhaoSMP/minecraft/saves/beep boop proot
-}
-
