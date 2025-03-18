@@ -38,7 +38,7 @@
         "handCameraResScale": "1.0",
         "forceHardwareDetection": "0",
         "handCameraFov": "70.0",
-        "lastUpdate": "",
+        "lastUpdate": "Vivecraft 1.20.1-1.2.4-forge",
         "realisticClimbEnabled": "true",
         "forceStandingFreeMove": "false",
         "inertiaFactor": "NORMAL",

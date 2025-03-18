@@ -1,0 +1,16 @@
+filename = 'automodpack-mc1.20.1-forge-4.0.0-beta27.jar'
+name = 'AutoModpack bootstrap'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c45f5b2d3c10019dcb58d7cd327ccb394fa2a754d88aca8a386026d8669735294be39d5c0632212c7f6897a6ebf28b9da929f183667be5a9f8fe5050836c2943'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k68glP2e/versions/yfDZ2uxu/automodpack-mc1.20.1-forge-4.0.0-beta27.jar'
+
+[update.modrinth]
+mod-id = 'k68glP2e'
+version = 'yfDZ2uxu'

@@ -1,0 +1,16 @@
+filename = 'Kiwi-1.20.1-Forge-11.8.30.jar'
+name = 'Kiwi Library'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '4466a5a553804fe853a462c6055a5ae74b151da65b9872d5389c77dcd53b5c538066403c4b4ed48dc8bede8d35e131d976cb105433bcb3180b6aaca459b7ef4c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ufdDoWPd/versions/SpmpxVSh/Kiwi-1.20.1-Forge-11.8.30.jar'
+
+[update.modrinth]
+mod-id = 'ufdDoWPd'
+version = 'SpmpxVSh'

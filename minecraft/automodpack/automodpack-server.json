@@ -28,6 +28,8 @@
   "updateIpsOnEveryStart": false,
   "hostPort": -1,
   "reverseProxy": false,
+  "secretLifetime": 336,
+  "validateSecrets": true,
   "selfUpdater": false,
   "acceptedLoaders": [
     "forge"

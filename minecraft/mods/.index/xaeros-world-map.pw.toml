@@ -1,0 +1,16 @@
+filename = 'XaerosWorldMap_1.39.4_Forge_1.20.jar'
+name = "Xaero's World Map"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2b1060839325fd90ced491d7e58306d0473c616fcf7ca9714b70719bac03e0a2d37fd1b9ceca1ff37167b88527ee935e7b715a07486e430a26b26f953e3bb721'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NcUtCpym/versions/SMViC4Yw/XaerosWorldMap_1.39.4_Forge_1.20.jar'
+
+[update.modrinth]
+mod-id = 'NcUtCpym'
+version = 'SMViC4Yw'

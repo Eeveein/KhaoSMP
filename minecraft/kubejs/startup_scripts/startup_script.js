@@ -8,7 +8,7 @@ StartupEvents.registry('item', event => {
 	event.create('amirite_aggregate')
 		.displayName("Amirite Aggregate")
 		.tooltip('§8A catalyst which has gathered the energy of those in this world.')
-		event.create('incomplete_amirite_aggregate', 'create:sequenced_assembly')
+	event.create('incomplete_amirite_aggregate', 'create:sequenced_assembly')
 		.displayName("Incomplete Amirite Aggregate")
 	event.create('lapis_shard')
 		.displayName("Lapis Shard")
@@ -19,6 +19,19 @@ StartupEvents.registry('item', event => {
 	event.create('andesite_nugget')
 		.displayName("Andesite Nugget")
 		.tooltip('§8Chunky.')
+	event.create('why')
+		.displayName("The Piss Singularity")
+		.tooltip('§8Why.')
+		.food(food =>
+			food
+			  .hunger(1000)
+			  .saturation(1000))
+
+			
+	event.create('oh_god', 'create:sequenced_assembly')
+		.displayName("Oh god")
+		.tooltip('Please no.')
+
 
 })
 
@@ -31,18 +44,6 @@ StartupEvents.registry("block", (event) => {
 		.textureAll("kubejs:block/kolbalt_casing")
 		.tagBlock("mineable/pickaxe")
 		.model('kubejs:block/kolbalt_casing')
-
-	event.create("kolbalt_window")
-		.displayName("Kolbalt Window")
-		.soundType('glass')
-		.hardness(1.0)
-		.resistance(1.0)
-		.textureAll("kubejs:block/kolbalt_window")
-		.tagBlock("mineable/pickaxe")
-		.model('kubejs:block/kolbalt_window')
-		.transparent(true)
-		.opaque(false)
-		.tooltip("§8Currently non-functional, sorry.")
 
 	event.create("kolbalt_block")
 		.displayName("Block of Kolbalt")

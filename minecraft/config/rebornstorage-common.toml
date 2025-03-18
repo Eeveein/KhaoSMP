@@ -28,7 +28,7 @@
 	#Range: 3 ~ 64
 	multiblock_crafter_max_x = 16
 	#Range: > 0
-	advanced_wireless_transmitter_range = 1000
+	advanced_wireless_transmitter_range = 10000
 	#Maximum Z size
 	#Range: 3 ~ 64
 	multiblock_crafter_min_z = 3
@@ -39,5 +39,5 @@
 	#Range: 3 ~ 64
 	multiblock_crafter_min_x = 3
 	#Range: 0 ~ 100000
-	advanced_wireless_transmitter_range_booster_range = 500
+	advanced_wireless_transmitter_range_booster_range = 25000
 

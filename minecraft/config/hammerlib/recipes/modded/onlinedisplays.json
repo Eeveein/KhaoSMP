@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "active": {"minecraft:crafting": {
+        "onlinedisplays:display": true,
+        "onlinedisplays:display_1": true
+    }},
+    "unregistered": {}
+}

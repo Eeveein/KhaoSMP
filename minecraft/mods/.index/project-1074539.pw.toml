@@ -1,0 +1,16 @@
+filename = 'arsnouveaudelight-1.1.1-1.20.1.jar'
+name = 'project-1074539'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9d8f33ec693f3ab22e762fed094c46aa16ca637c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6097406
+project-id = 1074539

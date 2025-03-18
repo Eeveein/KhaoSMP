@@ -57,6 +57,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "hammerlib": {
+    "root": true
+  },
   "delightful": {
     "crop_progress": true,
     "pie_icons": true,
@@ -89,6 +92,9 @@
   },
   "corpse": {
     "corpse": true
+  },
+  "balm": {
+    "jade": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
