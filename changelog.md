@@ -13,12 +13,13 @@ And more!
 Adds all the variants of all the woods in all the shapes from other mods! And the stone :3 I think Ellie will like this addition.
 - Added Quark (and some addons for compatibility)
 
-Quark adds and changes a LOT of features, *most* of the features I've enabled for this modpack can be found here [link]
+Quark adds and changes a LOT of features, *most* of the features I've enabled for this modpack [can be found here.](https://github.com/Eeveein/KhaoSMP/blob/main/quark.md)
 - Added Sophisticated Storage
 
 It's like Sophisticated Backpacks mixed with both Storage Drawers and Iron Chests! You can upgrade chests, barrels and Shulker Boxes to better tiers, this gives them more storage and the ability to use Upgrades, these upgrades are mostly the same as Sophisticated Backpacks. You can also create Limited Barrels which work exactly like Storage Drawers, with these additions. (The Storage Tool works in place of Keys for these.)
 - Some resource packs have been included in the modpack, they are enabled by default, but can be disabled if you wish.
 - General fixes
+- Fixed controls(? Please double check your controls to see that they weren't randomly changed, this has happened and I don't know if this will happen again)
 - Removed some mods for various reasons.
 - Removed Distant Horizons :( (Will look into potentially fixing and re-adding it in the future.)
 
